@@ -1,7 +1,7 @@
 {
   "id": "rt-eG_i8LVHC",
   "projectId": "p-1HLb80s9Z",
-  "name": "Example Dashboard",
+  "name": "Occasionally Failing Tests",
   "description": "",
   "interval": {
     "unit": "min",
